@@ -49,7 +49,10 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - i put index.html in .prettierignore i don't want to search paragaph😂.
 - and i use [Josh Comeau](https://www.joshwcomeau.com/css/custom-css-reset/?from=newsletter) css reset and i commented 3 and 10 th point.
--
+- i create html markup based on desktop view
+- after complete the markup i remove index.html from prettierignore
+
+- i added :root css variable added value base on [style-guild.md](./style-guide.md)
 
 <!-- - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
