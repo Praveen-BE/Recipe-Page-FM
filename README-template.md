@@ -48,6 +48,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Mobile-first workflow
 
 - i put index.html in .prettierignore i don't want to search paragaph😂.
+- and i use [Josh Comeau](https://www.joshwcomeau.com/css/custom-css-reset/?from=newsletter) css reset and i commented 3 and 10 th point.
 -
 
 <!-- - [React](https://reactjs.org/) - JS library
