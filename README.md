@@ -19,15 +19,15 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-Laptop View
-![ImageLaptop](./mySolutionImage/Screenshot%202025-04-01%20at%2023-23-13%20FM%20Recipe.png)
-Mobile View
-![imageMobile](./mySolutionImage/Screenshot%202025-04-01%20at%2023-24-28%20FM%20Recipe.png)
+- Laptop View
+  ![ImageLaptop](./mySolutionImage/Screenshot%202025-04-01%20at%2023-23-13%20FM%20Recipe.png)
+- Mobile View
+  ![imageMobile](./mySolutionImage/Screenshot%202025-04-01%20at%2023-24-28%20FM%20Recipe.png)
 
 ### Links
 
 - Solution URL: Github Repository [Recipe-Page-FM](https://github.com/Praveen-BE/Recipe-Page-FM)
-- Live Site URL: [Recipe-Page-FM](https://your-live-site-url.com)
+- Live Site URL: [Recipe-Page-FM](https://praveen-be.github.io/Recipe-Page-FM/)
 
 ## My process
 
